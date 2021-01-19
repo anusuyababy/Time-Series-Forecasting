@@ -1,2 +1,2 @@
 # Time-Series-Forecasting
-got 720/20000
+got 747/20800 rank in Analytics vidhya
